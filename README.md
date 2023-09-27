@@ -4,10 +4,6 @@
 
 Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for technology and a commitment to excellence. With experience in Azure, creating ticket systems, network security, and cloud computing, I'm excited to showcase my skills and accomplishments in the world of IT.
 
-## About Me
-
-I bring a wealth of knowledge and hands-on experience to the table. My journey in IT has been marked by a strong foundation in network security, cloud computing, and Azure, which has allowed me to excel in various IT-related endeavors.
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
