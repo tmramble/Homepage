@@ -16,8 +16,10 @@ Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for t
 
 <h2>👨‍💻 Internship Projects:</h2>
 
-- <b>ANZ Australia (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+- <b>ANZ Australia Digial Investigation)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/tmramble/packetcaptureanalysis)
+ 
+  - 
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
