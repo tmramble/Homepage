@@ -26,3 +26,5 @@ Here are some of the key highlights from my portfolio:
 - [Resume](link_to_project_1): A brief description of project 1.
 - [Digital Media Journal Chapter](link_to_project_2): A brief description of 
 
+<p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
+
