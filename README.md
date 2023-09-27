@@ -1,5 +1,5 @@
 # Homepage
-# Welcome to Taylor's IT Professional Portfolio
+Welcome to Taylor's IT Professional Portfolio
 
 ![Taylor's Profile Picture](link_to_your_profile_picture.jpg)
 
@@ -25,6 +25,4 @@ If you're interested in collaborating or have any inquiries, please don't hesita
 
 - Email: [your_email@example.com](mailto:your_email@example.com)
 - LinkedIn: [Taylor's LinkedIn Profile](link_to_your_linkedin_profile)
-
-Thank you for visiting my portfolio, and I look forward to connecting with you!
 
