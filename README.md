@@ -2,21 +2,31 @@
 
 ![Taylor's Profile Picture](link_to_your_profile_picture.jpg)
 
-Hello there! I'm Taylor, an aspiring IT professional with a passion for technology and a commitment to excellence. With experience in Azure, creating ticket systems, network security, and cloud computing, I'm excited to showcase my skills and accomplishments in the world of IT.
+Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for technology and a commitment to excellence. With experience in Azure, creating ticket systems, network security, and cloud computing, I'm excited to showcase my skills and accomplishments in the world of IT.
 
 ## About Me
 
 I bring a wealth of knowledge and hands-on experience to the table. My journey in IT has been marked by a strong foundation in network security, cloud computing, and Azure, which has allowed me to excel in various IT-related endeavors.
 
-## Portfolio Highlights - Original 3 Projects
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
+<h2>👨‍💻 Internship Projects:</h2>
+
+- <b>ANZ Australia (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 Here are some of the key highlights from my portfolio:
 
-- [Project 1 Name](link_to_project_1): A brief description of project 1.
-- [Project 2 Name](link_to_project_2): A brief description of project 2.
-- [Project 3 Name](link_to_project_3): A brief description of project 3.
-
-## Internship Experience
-
-During my journey, I've had the privilege of participating in valuable internships that have shaped my skills and understanding. Here are some
+- [Resume](link_to_project_1): A brief description of project 1.
+- [Digital Media Journal Chapter](link_to_project_2): A brief description of 
 
