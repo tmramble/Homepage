@@ -17,11 +17,9 @@ Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for t
 <h2>👨‍💻 Internship Projects:</h2>
 
 - <b>ANZ Australia Digial Investigation)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/tmramble/packetcaptureanalysis)
- 
-  - 
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Installation and Files]()
+  - [WireShark and Follow]()
+  - [RAW Images and Packet Capture Analysis](https://github.com/tmramble/packetcaptureanalysis)
 
 Here are some of the key highlights from my portfolio:
 
@@ -30,3 +28,10 @@ Here are some of the key highlights from my portfolio:
 
 <p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
 
+
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="Taylor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: (https://www.linkedin.com/in/taylor-ramble-4a395422a/)
