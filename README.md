@@ -23,8 +23,8 @@ Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for t
 
 Here are some of the key highlights from my portfolio:
 
-- [Resume](link_to_project_1): A brief description of project 1.
-- [Digital Media Journal Chapter](link_to_project_2): A brief description of 
+- [Resume](link_to_project_1): An image of my resume
+- [Digital Media Journal Chapter](https://www.linkedin.com/in/taylor-ramble-4a395422a/overlay/1635542825761/single-media-viewer/?profileId=ACoAADly_rsBcasyCTiR_xBju9k3mBnV0hbWSqg): I co-authored a journal chapter in The International Encyclopedia of Media Psychology
 
 <p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
 
