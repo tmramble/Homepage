@@ -26,12 +26,7 @@ Here are some of the key highlights from my portfolio:
 - [Resume](link_to_project_1): An image of my resume
 - [Digital Media Journal Chapter](https://www.linkedin.com/in/taylor-ramble-4a395422a/overlay/1635542825761/single-media-viewer/?profileId=ACoAADly_rsBcasyCTiR_xBju9k3mBnV0hbWSqg): I co-authored a journal chapter in The International Encyclopedia of Media Psychology
 
-<p>If you have any questions or want to get in touch, please feel free to <a href="mailto:taylorramble@outlook.com">email me</a>.</p>
 
-
-<h2>🤳Connect with me:</h2>
-
-
-[<img align="left" alt="Taylor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]:(https://www.linkedin.com/in/taylor-ramble-4a395422a)
+<h2>Connect with Me</h2>
+    <a href="https://www.linkedin.com/in/taylor-ramble-4a395422a/" target="_blank" rel="noopener noreferrer">
+        <button>Visit My LinkedIn</button>
