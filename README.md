@@ -34,4 +34,4 @@ Here are some of the key highlights from my portfolio:
 
 [<img align="left" alt="Taylor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: (https://www.linkedin.com/in/taylor-ramble-4a395422a/)
+[linkedin]:(https://www.linkedin.com/in/taylor-ramble-4a395422a/)
