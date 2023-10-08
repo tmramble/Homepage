@@ -11,15 +11,12 @@ Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for t
   - [osTicket: Post-Installation Configuration](https://github.com/tmramble/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tmramble/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/configure-az)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/azure-networkprotocols)
 
 <h2>👨‍💻 Internship Projects:</h2>
 
 - <b>ANZ Australia Digial Investigation)</b>
-  - [Installation and Files]()
-  - [WireShark and Follow]()
-  - [RAW Images and Packet Capture Analysis](https://github.com/tmramble/packetcaptureanalysis)
+  - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
+
 
 Here are some of the key highlights from my portfolio:
 
