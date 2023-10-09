@@ -11,6 +11,8 @@ Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for t
   - [osTicket: Post-Installation Configuration](https://github.com/tmramble/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/tmramble/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
 
 <h2>👨‍💻 Internship Projects:</h2>
 
