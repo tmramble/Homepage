@@ -21,6 +21,9 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
     
 <h2>:books: Relevant Coursework:</h2>
 
+- <b> Cryptography Lab Report: Exploring Encryption Techniques and Data Security</b>
+  - [Project Summary](https://github.com/tmramble/packetcaptureanalysis)
+
 - <b>Implementing Firewalls, Secure Communication, and Wireless LAN Protection</b>
   - [Project Summary](https://github.com/tmramble/packetcaptureanalysis)
    
