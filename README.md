@@ -1,8 +1,8 @@
 # Welcome to Taylor's IT Professional Portfolio
 
-![Taylor's Profile Picture](link_to_your_profile_picture.jpg)
+Hello! I'm Taylor Ramble, an IT Architect Specialist at Atlanta Public Schools, where I focus on monitoring and cyber operations to protect our digital infrastructure. Currently, I'm advancing my expertise as a Cyber Operations student at the University of Maryland Global Campus. My experience spans incident response, MITRE ATT&CK, and Linux, all while prioritizing a low digital footprint.
 
-Hello! I'm Taylor Ramble, an IT Architect Specialist at Atlanta Public Schools, focusing on network security and cloud computing. With a background in incident response, frameworks like MITRE, and tools such as Wireshark and Linux, I bring a practical approach to solving complex IT challenges while maintaining a low-profile digital presence. I'm passionate about using technology to create secure and efficient systems, and I'm excited to share the expertise that drives my work.
+In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT..
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
