@@ -18,10 +18,12 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 
 - <b>ANZ Australia Digial Investigation)</b>
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
-
-  <h2>:books: Relevant Coursework:</h2>
+    
+<h2>:books: Relevant Coursework:</h2>
 
 - <b>Implementing Firewalls, Secure Communication, and Wireless LAN Protection</b>
+  - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
+  - - <b>Reconnaissance-Driven Risk Evaluation of Cloud Database Systems</b>
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
 
 
