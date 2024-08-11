@@ -21,7 +21,7 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 
   <h2>:books: Relevant Coursework:</h2>
 
-- <b>ANZ Australia Digial Investigation)</b>
+- <b>Implementing Firewalls, Secure Communication, and Wireless LAN Protection</b>
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
 
 
