@@ -4,7 +4,7 @@ Hello! I'm Taylor Ramble, an IT Architect Specialist at Atlanta Public Schools, 
 
 In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT..
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>:mag: Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/tmramble/osTicket)
@@ -18,8 +18,8 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 
 - <b>ANZ Australia Digial Investigation)</b>
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
- 
-    <h2>:books: Relevant Coursework:</h2>
+
+  <h2>:books: Relevant Coursework:</h2>
 
 - <b>ANZ Australia Digial Investigation)</b>
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
