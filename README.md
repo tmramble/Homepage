@@ -13,11 +13,6 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/tmramble/Active-Directory-)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/tmramble/AzureNDS)
-
-<h2>👨‍💻 Internship Projects:</h2>
-
-- <b>ANZ Australia Digial Investigation)</b>
-  - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
     
 <h2>:books: Relevant Coursework:</h2>
 
@@ -30,9 +25,13 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 - <b>Reconnaissance-Driven Risk Evaluation of Cloud Database Systems</b>
   - [Project Summary](https://github.com/tmramble/reconnaissance)
 
+<h2>👨‍💻 Internship Projects:</h2>
+
+- <b>ANZ Australia Digial Investigation)</b>
+  - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
+  - 
 
 Here are some of the key highlights from my portfolio:
-
 
 - [Resume](link_to_project_1): An image of my resume
 
