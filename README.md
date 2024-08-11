@@ -22,7 +22,7 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 <h2>:books: Relevant Coursework:</h2>
 
 - <b>Implementing Firewalls, Secure Communication, and Wireless LAN Protection</b>
-  - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
+  - [Project Summary](https://github.com/tmramble/packetcaptureanalysis)
    
 - <b>Reconnaissance-Driven Risk Evaluation of Cloud Database Systems</b>
   - [Installation and Files](https://github.com/tmramble/reconnaissance)
