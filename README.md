@@ -18,6 +18,11 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 
 - <b>ANZ Australia Digial Investigation)</b>
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
+ 
+    <h2>:books: Relevant Coursework:</h2>
+
+- <b>ANZ Australia Digial Investigation)</b>
+  - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
 
 
 Here are some of the key highlights from my portfolio:
