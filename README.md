@@ -2,7 +2,7 @@
 
 ![Taylor's Profile Picture](link_to_your_profile_picture.jpg)
 
-Hello there! I'm Taylor Ramble, an aspiring IT professional with a passion for technology and a commitment to excellence. With experience in Azure, creating ticket systems, network security, and cloud computing, I'm excited to showcase my skills and accomplishments in the world of IT.
+Hello! I'm Taylor Ramble, an IT Architect Specialist at Atlanta Public Schools, focusing on network security and cloud computing. With a background in incident response, frameworks like MITRE, and tools such as Wireshark and Linux, I bring a practical approach to solving complex IT challenges while maintaining a low-profile digital presence. I'm passionate about using technology to create secure and efficient systems, and I'm excited to share the expertise that drives my work.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
