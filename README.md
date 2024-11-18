@@ -4,6 +4,12 @@ Hello! I'm Taylor Ramble, an IT Architect Specialist at Atlanta Public Schools, 
 
 In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
 
+
+Here are some of the key highlights from my portfolio:
+
+- [Resume](link_to_project_1): An image of my resume
+- Certifications and Relevant Coursework 
+
 <h2>:mag: Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -31,9 +37,6 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
   - [Installation and Files](https://github.com/tmramble/packetcaptureanalysis)
   - 
 
-Here are some of the key highlights from my portfolio:
-
-- [Resume](link_to_project_1): An image of my resume
 
   
 - [Digital Media Journal Chapter](https://www.linkedin.com/in/taylor-ramble-4a395422a/overlay/1635542825761/single-media-viewer/?profileId=ACoAADly_rsBcasyCTiR_xBju9k3mBnV0hbWSqg): I co-authored a journal chapter in The International Encyclopedia of Media Psychology
