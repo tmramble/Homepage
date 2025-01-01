@@ -7,8 +7,14 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 
 Here are some of the key highlights from my portfolio:
 
-- [Resume](link_to_project_1): An image of my resume
-- Certifications and Relevant Coursework 
+<h2>:mag: Cybersecurity Projects:</h2>
+
+- <b>Logging and Monitoring</b>
+  - [Azure Active Directory (Entra ID) User Groups and Access Management](https://github.com/tmramble/AzureRBAC_Config)
+  - [GEO IP Data Ingestion + Log Analytics with Microsoft Sentinel](https://github.com/tmramble/SentinelGeoIP)
+  - [Virtual Machine Log Collection and Network Security Groups](https://github.com/tmramble/MicrosoftDefenderNSG)
+
+
 
 <h2>:mag: Information Technology Projects:</h2>
 
