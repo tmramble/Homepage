@@ -10,9 +10,9 @@ Here are some of the key highlights from my portfolio:
 <h2>:mag: Cybersecurity Projects:</h2>
 
 - <b>Logging and Monitoring</b>
-  - [Azure Active Directory (Entra ID) User Groups and Access Management](https://github.com/tmramble/AzureRBAC_Config)
-  - [GEO IP Data Ingestion + Log Analytics with Microsoft Sentinel](https://github.com/tmramble/SentinelGeoIP)
-  - [Virtual Machine Log Collection and Network Security Groups](https://github.com/tmramble/MicrosoftDefenderNSG)
+  - [Entra ID: AAD User Groups and Access Management](https://github.com/tmramble/AzureRBAC_Config)
+  - [Microsoft Sentinel: GEO IP Data Ingestion + Log Analytics](https://github.com/tmramble/SentinelGeoIP)
+  - [Microsoft Defender: Virtual Machine Log Collection and Network Security Groups](https://github.com/tmramble/MicrosoftDefenderNSG)
 
 
 
