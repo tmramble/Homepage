@@ -13,8 +13,6 @@ Here are some of the key highlights from my portfolio:
   - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/3cad471d-b734-42c0-93f9-3ff596953ff7/public_url)
 
 
-
-
 <h2>:mag: Cybersecurity Projects:</h2>
 
 - <b>Logging and Monitoring</b>
