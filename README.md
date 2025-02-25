@@ -4,12 +4,13 @@ Hello! I'm Taylor Ramble, an IT Architect Specialist at Atlanta Public Schools, 
 
 In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
 
+Here are some of the key highlights from my portfolio:
+
+
 ## :file_folder: Resume
 
 Check out my resume [here](https://github.com/tmramble/resume/blob/main/resumepdf).
 
-
-Here are some of the key highlights from my portfolio:
 
 <h2>:trophy: Certifications:</h2>
 
