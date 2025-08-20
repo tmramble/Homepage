@@ -9,7 +9,7 @@ Here are some of the key highlights from my portfolio:
 
 ## :file_folder: Resume
 
-Check out my resume [here](https://github.com/tmramble/resume/blob/main/resumepdf).
+Check out my resume [here](https://github.com/tmramble/resume/blob/main/Ramble_Resume1%20(1).pdf).
 
 
 <h2>:trophy: Certifications:</h2>
