@@ -9,21 +9,49 @@ Here are some of the key highlights from my portfolio:
 
 ## :file_folder: Resume
 
-Check out my resume [here](https://github.com/tmramble/resume/blob/main/Ramble_Resume1%20(1).pdf).
+Check out my resume [here](https://github.com/tmramble/resume/blob/main/Ramble_Resume1%20(2).pdf).
 
 
 <h2>:trophy: Certifications:</h2>
 
 - <b>Cybersecurity Certifications</b>
   - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/3cad471d-b734-42c0-93f9-3ff596953ff7/public_url)
+    
+<h2> Security Initiatives</h2>
+
+- <b>Threat Response Automation & IOC Management</b>  
+  - Mitigated widespread student account compromises through automated IOC uploads, reducing IP block response time by ~90%.  
+  - Investigated root cause of breaches tied to student numbered passwords and escalated with policy recommendations.  
+  - Discovered and resolved failure in district-wide Conditional Access geo-blocking for non-US IPs.
+
+- <b>Business Continuity & Risk Management</b>  
+  - Led quarterly Business Continuity and Disaster Recovery (BC/DR) meetings; aligned district plans with cybersecurity policies.  
+  - Conducted third-party risk assessments using current cybersecurity frameworks and policies.  
+  - Identified vendor risk due to lack of SOC 2 compliance, preventing a major security exposure.
+
+- <b>Data Compliance & Microsoft Purview Integration</b>  
+  - Deployed Microsoft Purview in Atlanta Public Schools to protect sensitive student and employee data.  
+  - Created custom sensitivity labels and Data Loss Prevention (DLP) policies to secure confidential info.  
+  - Developed user guides and faculty support resources to ensure successful adoption of compliance tools.
 
 
 <h2>:mag: Cybersecurity Projects:</h2>
 
-- <b>Logging and Monitoring</b>
-  - [Entra ID: AAD User Groups and Access Management](https://github.com/tmramble/AzureRBAC_Config)
-  - [Microsoft Sentinel: GEO IP Data Ingestion + Log Analytics](https://github.com/tmramble/SentinelGeoIP)
-  - [Microsoft Defender: Virtual Machine Log Collection and Network Security Groups](https://github.com/tmramble/MicrosoftDefenderNSG)
+- <b>Geo-Data to Azure Storage with Data Lakes</b>  
+  - [Source Code](https://github.com/tmramble/SentinelGeoIP)  
+  - Utilized Azure Storage, Microsoft Sentinel, and Log Analytics to ingest and analyze GEO IP data.  
+  - Integrated with Azure Data Lake for scalable security log retention and query optimization.
+
+- <b>Cryptography Lab Report: Exploring Encryption Techniques</b>  
+  - [Source Code](https://github.com/tmramble/cryptography)  
+  - Conducted hands-on experiments with OpenSSL and Wireshark to explore symmetric and asymmetric encryption.  
+  - Simulated encrypted web traffic using Apache Web Server and analyzed security protocols via Linux CLI.
+
+- <b>Merged Whisper Security – Network Design & Security Integration</b>  
+  - [Source Code](https://github.com/tmramble/Merged-Whisper-Security-Network-Topology)  
+  - Designed and documented a secure network topology integrating Microsoft Defender and Cisco network tools.  
+  - Used Visio and Excel for architecture diagrams, asset tracking, and threat modeling.
+
 
 
 
