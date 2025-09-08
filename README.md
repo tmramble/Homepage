@@ -7,15 +7,11 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 Here are some of the key highlights from my portfolio:
 
 
-## :file_folder: Resume
-
-Check out my resume [here](https://github.com/tmramble/resume/blob/main/Ramble_Resume1%20(2).pdf).
-
 
 <h2>:trophy: Certifications:</h2>
 
 - <b>Cybersecurity Certifications</b>
-  - [Certified in Cybersecurity (CC)](https://www.credly.com/badges/3cad471d-b734-42c0-93f9-3ff596953ff7/public_url)
+  - [Certified in Cybersecurity (CC)](https://my.isc2.org/digitalcert)
     
 <h2> Security Initiatives</h2>
 
