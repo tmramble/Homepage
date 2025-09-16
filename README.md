@@ -7,15 +7,18 @@ In this portfolio, you'll find a collection of my projects, relevant coursework,
 Here are some of the key highlights from my portfolio:
 
 
-
-<h2>:trophy: Certifications:</h2>
+<h2>:trophy: Certifications and Training:</h2>
 
  <b>Cybersecurity Certifications</b>
 
     
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/TaylorRamble-0352/AFDC5BA946562F9C?sharingId=740162D5A6B3DC15)
  - [Certified in Cybersecurity (CC)](https://my.isc2.org/digitalcert)
-    
+
+ <b>Georgia Bureau of Investigation</b>
+- [Security Policy Awareness Training Certificate]
+
+
 <h2> Security Initiatives</h2>
 
 - <b>Threat Response Automation & IOC Management</b>  
