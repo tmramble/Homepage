@@ -11,7 +11,7 @@ Here are some of the key highlights from my portfolio:
 <h2>:trophy: Certifications:</h2>
 
 - <b>Cybersecurity Certifications</b>
--   [Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/TaylorRamble-0352/AFDC5BA946562F9C?sharingId=740162D5A6B3DC15)
+-   [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/TaylorRamble-0352/AFDC5BA946562F9C?sharingId=740162D5A6B3DC15)
   - [Certified in Cybersecurity (CC)](https://my.isc2.org/digitalcert)
     
 <h2> Security Initiatives</h2>
