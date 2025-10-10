@@ -19,6 +19,25 @@ Here are some of the key highlights from my portfolio:
 - [Security Policy Awareness Training Certificate]
 
 
+<h2>:mag: Cybersecurity Projects:</h2>
+
+- <b>Cloud Security Terraform Practice: Azure DevOps Project</b>
+  - [Source Code](https://github.com/tmramble/AzureDevOps)
+  - Demonstrated secure Infrastructure-as-Code (IaC) deployment using Terraform integrated with Azure DevOps and Git.  
+  - Applied Agile methodology with Epics, Features, and Tasks tracked in Azure Boards; resolved pipeline parallelism limitations with local execution.  
+  - Built dashboards and project wiki to document workflows, visualize deployment status, and support future reference.
+
+- <b>Cryptography Lab Report: Exploring Encryption Techniques</b>  
+  - [Source Code](https://github.com/tmramble/cryptography)  
+  - Conducted hands-on experiments with OpenSSL and Wireshark to explore symmetric and asymmetric encryption.  
+  - Simulated encrypted web traffic using Apache Web Server and analyzed security protocols via Linux CLI.
+
+- <b>Merged Whisper Security – Network Design & Security Integration</b>  
+  - [Source Code](https://github.com/tmramble/Merged-Whisper-Security-Network-Topology)  
+  - Designed and documented a secure network topology integrating Microsoft Defender and Cisco network tools.  
+  - Used Visio and Excel for architecture diagrams, asset tracking, and threat modeling.
+
+
 <h2> Security Initiatives</h2>
 
 - <b>Threat Response Automation & IOC Management</b>  
@@ -35,25 +54,6 @@ Here are some of the key highlights from my portfolio:
   - Deployed Microsoft Purview in Atlanta Public Schools to protect sensitive student and employee data.  
   - Created custom sensitivity labels and Data Loss Prevention (DLP) policies to secure confidential info.  
   - Developed user guides and faculty support resources to ensure successful adoption of compliance tools.
-
-
-<h2>:mag: Cybersecurity Projects:</h2>
-
-- <b>Geo-Data to Azure Storage with Data Lakes</b>  
-  - [Source Code](https://github.com/tmramble/SentinelGeoIP)  
-  - Utilized Azure Storage, Microsoft Sentinel, and Log Analytics to ingest and analyze GEO IP data.  
-  - Integrated with Azure Data Lake for scalable security log retention and query optimization.
-
-- <b>Cryptography Lab Report: Exploring Encryption Techniques</b>  
-  - [Source Code](https://github.com/tmramble/cryptography)  
-  - Conducted hands-on experiments with OpenSSL and Wireshark to explore symmetric and asymmetric encryption.  
-  - Simulated encrypted web traffic using Apache Web Server and analyzed security protocols via Linux CLI.
-
-- <b>Merged Whisper Security – Network Design & Security Integration</b>  
-  - [Source Code](https://github.com/tmramble/Merged-Whisper-Security-Network-Topology)  
-  - Designed and documented a secure network topology integrating Microsoft Defender and Cisco network tools.  
-  - Used Visio and Excel for architecture diagrams, asset tracking, and threat modeling.
-
 
 
 
