@@ -1,16 +1,23 @@
-# Welcome to Taylor's IT Professional Portfolio
+# Welcome to Taylor's Security Professional Portfolio
 
-Hello! I'm Taylor Ramble, an IT Architect Specialist, where I focus on monitoring and cyber operations to protect our digital infrastructure. Currently, I'm advancing my expertise as a Cyber Operations student at the University of Maryland Global Campus. My experience spans incident response, MITRE ATT&CK, and Linux, all while prioritizing a low digital footprint.
+Hello! I'm Taylor Ramble, an IT Architect Specialist, where I focus on monitoring and cyber operations to protect our digital infrastructure. Currently, I'm advancing my expertise as a Cyber Operations student at Western Governers University after graduating from the University of Georgia.
+
+At Atlanta Public Schools I have extensive experience in Business Continuity, Disaster Revery and Incident Response. Not only am I the owner of the Crisis Management Team, I often edit the IRP, Continuity Plans and Recovery Plans. . My experience spans incident response, MITRE ATT&CK, and Linux, all while prioritizing a low digital footprint.
 
 In this portfolio, you'll find a collection of my projects, relevant coursework, and other information that showcases my dedication to cybersecurity and continuous learning. I invite you to explore my work and see how I'm contributing to the ever-evolving field of IT.
 
 Here are some of the key highlights from my portfolio:
 
+<h2> 🤖 AI Governance and LLM Benchmarking</h2>
+
+-[LLM Monitoring Dashboard and Incident Response](https://github.com/your-username/repo-name)
+
+-[AI Governance & Compliance Dashboard](https://github.com/tmramble/AIGovernance)
+
 
 <h2>:trophy: Certifications and Training:</h2>
 
  <b>Cybersecurity Certifications</b>
-
     
 - [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/api/credentials/share/en-us/TaylorRamble-0352/AFDC5BA946562F9C?sharingId=740162D5A6B3DC15)
  - [Certified in Cybersecurity (CC)](https://my.isc2.org/digitalcert)
